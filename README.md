@@ -20,7 +20,7 @@ Don’t worry — the string table is saved exactly the same way as in the origi
 Using the filter box, you can display only chapter titles, character names, or choice lines.
 (Although the filter feature is still incomplete and may show some MALIE LABEL code lines, this does not affect usability.)
 
-3. This version extends LightStringEditor so it can be used not only for light-developed games but also for Karin Entertainment titles (BL game brand: Karin Château Noir Ω), allowing you to view and translate the MALIE LABEL section as well.
+3. This version extends LightStringEditor so it can be used not only for light-developed games but also for Karin Entertainment titles (BL game brand: Karin Chat noir Ω), allowing you to view and translate the MALIE LABEL section as well.
 
 
 Special Thanks
