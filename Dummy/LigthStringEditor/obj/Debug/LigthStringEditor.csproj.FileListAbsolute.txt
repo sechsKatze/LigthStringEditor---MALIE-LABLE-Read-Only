@@ -1,0 +1,6 @@
+H:\omarta kor patch data\reversing data\LigthStringEditor-1.0.7\LigthStringEditor- 수정본 2\LigthStringEditor\bin\Debug\LigthStringEditor.dll
+H:\omarta kor patch data\reversing data\LigthStringEditor-1.0.7\LigthStringEditor- 수정본 2\LigthStringEditor\bin\Debug\LigthStringEditor.pdb
+H:\omarta kor patch data\reversing data\LigthStringEditor-1.0.7\LigthStringEditor- 수정본 2\LigthStringEditor\obj\Debug\LigthStringEditor.csproj.AssemblyReference.cache
+H:\omarta kor patch data\reversing data\LigthStringEditor-1.0.7\LigthStringEditor- 수정본 2\LigthStringEditor\obj\Debug\LigthStringEditor.csproj.CoreCompileInputs.cache
+H:\omarta kor patch data\reversing data\LigthStringEditor-1.0.7\LigthStringEditor- 수정본 2\LigthStringEditor\obj\Debug\LigthStringEditor.dll
+H:\omarta kor patch data\reversing data\LigthStringEditor-1.0.7\LigthStringEditor- 수정본 2\LigthStringEditor\obj\Debug\LigthStringEditor.pdb

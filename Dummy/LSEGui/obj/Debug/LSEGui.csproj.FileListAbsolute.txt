@@ -1,0 +1,13 @@
+H:\omarta kor patch data\reversing data\LigthStringEditor-1.0.7\LigthStringEditor- 수정본 2\LSEGui\bin\Debug\LSEGui.exe.config
+H:\omarta kor patch data\reversing data\LigthStringEditor-1.0.7\LigthStringEditor- 수정본 2\LSEGui\bin\Debug\LSEGui.exe
+H:\omarta kor patch data\reversing data\LigthStringEditor-1.0.7\LigthStringEditor- 수정본 2\LSEGui\bin\Debug\LSEGui.pdb
+H:\omarta kor patch data\reversing data\LigthStringEditor-1.0.7\LigthStringEditor- 수정본 2\LSEGui\bin\Debug\LigthStringEditor.dll
+H:\omarta kor patch data\reversing data\LigthStringEditor-1.0.7\LigthStringEditor- 수정본 2\LSEGui\bin\Debug\LigthStringEditor.pdb
+H:\omarta kor patch data\reversing data\LigthStringEditor-1.0.7\LigthStringEditor- 수정본 2\LSEGui\obj\Debug\LSEGui.csproj.AssemblyReference.cache
+H:\omarta kor patch data\reversing data\LigthStringEditor-1.0.7\LigthStringEditor- 수정본 2\LSEGui\obj\Debug\LSEGui.LSEGUI.resources
+H:\omarta kor patch data\reversing data\LigthStringEditor-1.0.7\LigthStringEditor- 수정본 2\LSEGui\obj\Debug\LSEGui.Properties.Resources.resources
+H:\omarta kor patch data\reversing data\LigthStringEditor-1.0.7\LigthStringEditor- 수정본 2\LSEGui\obj\Debug\LSEGui.csproj.GenerateResource.cache
+H:\omarta kor patch data\reversing data\LigthStringEditor-1.0.7\LigthStringEditor- 수정본 2\LSEGui\obj\Debug\LSEGui.csproj.CoreCompileInputs.cache
+H:\omarta kor patch data\reversing data\LigthStringEditor-1.0.7\LigthStringEditor- 수정본 2\LSEGui\obj\Debug\LSEGui.csproj.Up2Date
+H:\omarta kor patch data\reversing data\LigthStringEditor-1.0.7\LigthStringEditor- 수정본 2\LSEGui\obj\Debug\LSEGui.exe
+H:\omarta kor patch data\reversing data\LigthStringEditor-1.0.7\LigthStringEditor- 수정본 2\LSEGui\obj\Debug\LSEGui.pdb
