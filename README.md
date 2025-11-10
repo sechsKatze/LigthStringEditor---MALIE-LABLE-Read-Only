@@ -8,7 +8,7 @@ This is a critical bug that cannot be fixed without rebuilding the entire execut
 
 Therefore, if you wish to translate the chapter titles, character names, or choice texts contained within the MALIE LABEL section, you must use API hooking instead.
 
-An editable version that uses azure9’s MalieVM parser functions is included in the Dummy folder.
+An editable version that uses [azure9](https://github.com/azure9)’s [MalieVM](https://github.com/azure9/MalieVM) parser functions is included in the Dummy folder.
 
 Caution
 ======
