@@ -23,7 +23,7 @@ Using the filter box, you can display only chapter titles, character names, or c
 3. This version extends LightStringEditor so it can be used not only for light-developed games but also for Karin Entertainment titles (BL game brand: Karin Château Noir Ω), allowing you to view and translate the MALIE LABEL section as well.
 
 
-## Special Thanks
+Special Thanks
 ======
 * Marcus André
 * azure9
