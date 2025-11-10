@@ -1,6 +1,13 @@
-## LightStringEditor - Karin EXEC file ver.
-It is an extended, general-purpose translation tool based on the EXEC format (formally “exec.dat”) used in Karin Entertainment(Karin Château Noir Ω)'S developed from Marcus André’s LightStringEditor.
-The main differences from the original are as follows:
+## LightStringEditor - MALIE LABEL Read Only and String table Edit.
+※Warning※
+Currently, the MALIE LABEL section is read-only and cannot be edited.
+This is because increasing its size causes the .rsrc (resource section) to become corrupted when replacing the EXEC using a resource editor, which in turn breaks the .exe file and prevents the game from running.
+This is a critical bug that cannot be fixed without rebuilding the entire executable from scratch.
+
+Therefore, if you wish to translate the chapter titles, character names, or choice texts contained within the MALIE LABEL section, you must use API hooking instead.
+
+An editable version that uses azure9’s MalieVM parser functions is included in the Dummy folder.
+
 
 * 1. Supports both the String Table and the MALIE LABEL section.
 Unlike ordinary versions that only handle dialogue/narration strings, this one can also translate the MALIE LABEL area. Karin stores character names and branching-choice captions inside MALIE LABEL blocks within the EXEC file, so these can now be edited as well.
